@@ -479,6 +479,11 @@ section {
     gap: 40px;
   }
 
+  .hero__media {
+    display: flex;
+    justify-content: center;
+  }
+
   .skills__groups {
     grid-template-columns: repeat(2, 1fr);
   }
