@@ -4,6 +4,7 @@ A fully responsive personal portfolio website built with semantic HTML and CSS.
 It serves as a live resume showcasing my background, skills, and selected projects.
 
 **Live site:** https://ahmad-alhwari0.github.io/Portfolio-project/
+**figma link:**https://www.figma.com/design/STNo4ZRUPQk1F1P99zGSKI/ahmad-alhwari?node-id=0-1&t=gZ4ZGlj3gDGMJzCZ-1
 
 ---
 
@@ -78,8 +79,6 @@ Portfolio-project/
 ├── files/
 │   └── Ahmad_Alhwari.pdf
 └── documentation/
-    ├── wireframe-desktop-mobile.png
-    └── mockup-desktop-mobile.png
 ```
 
 ---
